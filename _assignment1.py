@@ -44,4 +44,4 @@ for i in range(0,345,15):
     a=math.cos(math.radians(i))
     b=math.sin(math.radians(i))
     print(round(a,4), round(b,4))
-    
+   
