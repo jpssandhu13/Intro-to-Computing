@@ -1,0 +1,37 @@
+Write a sentence Hello, how are you
+4
+Enter the year 2022
+Enter the month 12
+Enter the date 31
+The next date is:1-1-2023.
+Enter the lower range:1
+Enter the upper range:5
+[(1, 1), (2, 4), (3, 9), (4, 16), (5, 25)]
+Enter the marks 81
+Your grade is: A
+ ABCDEFGHIJK
+  ABCDEFGHI
+   ABCDEFG
+    ABCDE
+     ABC
+      A
+Enter student name : Jappanpreet Singh
+Enter student SID : 22104047
+Enter Y to continue or N to end : Y
+Enter student name : Rajdeep Singh 
+Enter student SID : 22104061
+Enter Y to continue or N to end : Y
+Enter student name : Ansh
+Enter student SID : 22104013
+Enter Y to continue or N to end : Y
+Enter student name : Aarav
+1
+1
+2
+3
+1.4
+{1, 3, 5, 6, 8}
+{17, 3, 6, 8, 9, 13}
+{1, 2, 4, 5}
+{6, 7, 8, 9, 10}
+{10, 7}
